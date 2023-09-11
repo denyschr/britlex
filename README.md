@@ -1,4 +1,4 @@
-﻿# [Foreign language learning site](https://dchornoivanenko.github.io/britlex/)
+﻿# [Foreign language learning site](https://denyschr.github.io/britlex/)
 ## What I used for creating the website:
 - HTML
 - CSS
