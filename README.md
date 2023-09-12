@@ -1,5 +1,5 @@
 ﻿# [Foreign language learning site](https://denyschr.github.io/britlex/)
-## What I used for creating the website:
+## What I used:
 - HTML
 - CSS
 - Javascript
