@@ -7,4 +7,4 @@
 - Adaptive to 320px
 - Use of BEM methodology
 - Observing basic semantic rules
-- Burger-menu 
+- Burger menu 
